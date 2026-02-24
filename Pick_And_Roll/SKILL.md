@@ -3,8 +3,14 @@
 Esta Skill automatiza la actualización del archivo Excel de rotulación deportiva de Huelva TV.
 
 ## Automatización Principal
+<<<<<<< HEAD
 - **Script**: `scripts/actualizar_pick_and_roll.py`
 - **Archivo Destino**: `\\172.16.80.129\g\EXCEL PROGRAMAS\PICK AND ROLL\DATOS PICK AND ROLL.xlsx`
+=======
+- **Proyecto**: [Herramientas_Htv](file:///c:/Users/User/Documents/Antigravity/Projects/Herramientas_Htv/)
+- **Script**: `scripts/actualizar_pick_and_roll.py`
+- **Archivo Destino**: `c:\Users\User\Desktop\DATOS PICK AND ROLL.xlsx`
+>>>>>>> 7d9ab6ad7e2827242a31372e4872cc5346962b84
 
 ## Reglas de Formato
 - **MAYÚSCULAS**: Todo el texto de equipos y resultados.
